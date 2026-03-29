@@ -1,2 +1,2 @@
 # System-Administration-Projects
-My private projects in system administration field
+My personal projects in system administration field
